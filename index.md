@@ -7,7 +7,6 @@
 </div>
 
 ## Research Areas 🔍
-- **Combinatorial Optimization** 
 - **Submodular Optimization** 
 - **UAV Optimization** 
 
@@ -25,7 +24,7 @@
 ## Conferences 🎤 {#Conferences}
 
 #### <span style="font-size: 20px;">Efficient Submodular Maximization for Sums of Concave over Modular Functions</span>
-**<em>Y. Lv</em>**, <em>G. Wang</em>, <em>D. Xu</em>, <em>R. Yang</em> — **ICLR2026 poster**(CCF-A), **ICOTA2026 best paper**  [📄Paper](https://github.com/lvymath1/lvyang.github.io/raw/main/files/Efficient_Submodular_Maximization.pdf) | [💻Code](https://github.com/lvymath1/Cooperative_Placement_of_Heterogeneous_Measurement_UAVs)
+**<em>Yang Lv</em>**, <em>Guihao Wang</em>, <em>Dachuan Xu</em>, <em>Ruiqi Yang</em> — **ICLR2026 poster** (CCF-A), **ICOTA2026 best paper**  [📄Paper](https://github.com/lvymath1/lvyang.github.io/raw/main/files/Efficient_Submodular_Maximization.pdf) | [💻Code](https://github.com/lvymath1/Cooperative_Placement_of_Heterogeneous_Measurement_UAVs)
 
 #### <span style="font-size: 20px;">Random Greedy Deployment of Heterogeneous UAVs</span>  
 **<em>Yang Lv</em>**, <em>Fengmin Wang</em>, <em>Xiankun Yu</em>, <em>Xin Li</em>, <em>Dachuan Xu</em>, <em>Ruiqi Yang</em> — **TAMC2025**  [📄Paper](https://github.com/lvymath1/lvyang.github.io/raw/main/files/Random_Greedy_Deployment.pdf) | [💻Code]([https://github.com/lvymath1/YourCodeRepo](https://github.com/lvymath1/Efficient-Submodular-Maximization))
