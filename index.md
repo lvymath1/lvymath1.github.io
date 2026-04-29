@@ -11,31 +11,33 @@
 
 ## Publications 📚✨
 
+## Publications 📚✨
+
 ### Journals 📖
 
 #### H-hop Independently Submodular Maximization Problem with Curvature
-- **Y. Lv**, C. Wu, D. Xu, R. Yang  
-- **High-Confidence Computing 4 (3), 100208**  
-- [Paper 📄](#)
+**<em>Y. Lv</em>**, <em>C. Wu</em>, <em>D. Xu</em>, <em>R. Yang</em>  
+**High-Confidence Computing 4 (3), 100208**  
+[Paper 📄](https://github.com/lvymath1/lvyang.github.io/blob/main/files/H-hop_Independently_Submodular_Maximization.pdf)
 
 ---
 
 ### Conferences 🎤
 
 #### UAV Target Tracking with Bandit-Based Data Fusion
-- **Y. Lv**, G. Fan, M. Li, X. Liu, P. Liu, Y. Zhang  
-- **International Conference on Combinatorial Optimization and Applications, 278-286**  
-- [Paper 📄](#)
+**<em>Y. Lv</em>**, <em>G. Fan</em>, <em>M. Li</em>, <em>X. Liu</em>, <em>P. Liu</em>, <em>Y. Zhang</em>  
+**International Conference on Combinatorial Optimization and Applications, 278-286**  
+[Paper 📄](https://github.com/lvymath1/lvyang.github.io/blob/main/files/UAV_Target_Tracking.pdf)
 
 #### Random Greedy Deployment of Heterogeneous UAVs
-- **Y. Lv**, F. Wang, X. Yu, X. Li, D. Xu, R. Yang  
-- **Annual Conference on Theory and Applications of Models of Computation, 330-341**  
-- [Paper 📄](#)
+**<em>Y. Lv</em>**, <em>F. Wang</em>, <em>X. Yu</em>, <em>X. Li</em>, <em>D. Xu</em>, <em>R. Yang</em>  
+**Annual Conference on Theory and Applications of Models of Computation, 330-341**  
+[Paper 📄](https://github.com/lvymath1/lvyang.github.io/blob/main/files/Random_Greedy_Deployment.pdf)
 
 #### Efficient Submodular Maximization for Sums of Concave over Modular Functions
-- **Y. Lv**, G. Wang, D. Xu, R. Yang  
-- **The Fourteenth International Conference on Learning Representations**  
-- [Paper 📄](#) | [Code 💻](#)
+**<em>Y. Lv</em>**, <em>G. Wang</em>, <em>D. Xu</em>, <em>R. Yang</em>  
+**The Fourteenth International Conference on Learning Representations**  
+[Paper 📄](https://github.com/lvymath1/lvyang.github.io/blob/main/files/Efficient_Submodular_Maximization.pdf) | [Code 💻](https://github.com/lvymath1/YourCodeRepo)
 
 ## Contact Information 📬
 -  Email: lvyang_research@163.com
