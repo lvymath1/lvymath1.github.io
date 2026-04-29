@@ -35,7 +35,3 @@
 
 #### <span style="font-size: 20px;">UAV Target Tracking with Bandit-Based Data Fusion</span>  
 **<em>Yang Lv</em>**, <em>Guochao Fan</em>, <em>Mengzhen Li</em>, <em>Xiongjun Liu</em>, <em>Pengqing Liu</em>, <em>Yapu Zhang</em> — **COCOA2024**  [📄Paper](https://github.com/lvymath1/lvyang.github.io/raw/main/files/UAV_Target_Tracking.pdf) | [💻Code](https://github.com/lvymath1/Cooperative_Placement_of_Heterogeneous_Measurement_UAVs)
-
-## Contact Information 📬 {#information}
-- Email: lvyang_research@163.com
-- GitHub: [lvymath1](https://github.com/lvymath1) 
