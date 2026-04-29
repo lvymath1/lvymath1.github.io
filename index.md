@@ -11,9 +11,9 @@
 - **Submodular Optimization** 
 - **UAV Optimization** 
 
-## Publications 📚 {#publications}
+## Publications 📚 
 
-## Journals 📖
+## Journals 📖 {#Journals}
 #### <span style="font-size: 20px;">Approximating Combinatorial Contracts with A Cardinality Constraint</span>  
 <em>Qinqin Gong</em>, <em>Ling Gai</em>, <em>Yanjun Jiang</em>, **<em>Yang Lv</em>**, <em>Ruiqi Yang</em> — **Journal of Combinatorial Optimization** - 2025 [📄Paper](https://github.com/lvymath1/lvyang.github.io/raw/main/files/Approximating_Cominatorial_Contracts.pdf)
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Conferences 🎤
+## Conferences 🎤 {#Conferences}
 
 #### <span style="font-size: 20px;">Efficient Submodular Maximization for Sums of Concave over Modular Functions</span>
 **<em>Y. Lv</em>**, <em>G. Wang</em>, <em>D. Xu</em>, <em>R. Yang</em> — **ICLR2026 poster**(CCF-A), **ICOTA2026 best paper**  [📄Paper](https://github.com/lvymath1/lvyang.github.io/raw/main/files/Efficient_Submodular_Maximization.pdf) | [💻Code](https://github.com/lvymath1/Cooperative_Placement_of_Heterogeneous_Measurement_UAVs)
