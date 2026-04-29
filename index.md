@@ -7,8 +7,6 @@ I specialize in **combinatorial optimization**  and **UAV optimization** .
 - **Submodular Optimization** 
 - **UAV Optimization** 
 
-## Publications 📚
-
 ## Publications 📚✨
 
 ### H-hop Independently Submodular Maximization Problem with Curvature 🧩
