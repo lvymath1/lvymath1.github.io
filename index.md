@@ -1,4 +1,5 @@
-#{about_me}
+<div id="about_me" style="display: none;"></div>
+
 <div style="display: flex; justify-content: space-between; width: 100%;">
   <div style="text-align: left;">
     I am <strong>Lv Yang</strong>, a Ph.D. student at <strong>Beijing University of Technology</strong>. I have completed my undergraduate and master's degrees at the same institution, and I am currently pursuing my doctoral research under the supervision of <strong>Prof. Dachuan Xu</strong> (<a href="https://dblp.org/pid/73/41.html" target="_blank">DBLP</a>).
