@@ -11,12 +11,10 @@
 
 ## Publications 📚✨
 
-## Publications 📚✨
-
 ### Journals 📖
 
 #### H-hop Independently Submodular Maximization Problem with Curvature
-**<em>Y. Lv</em>**, <em>C. Wu</em>, <em>D. Xu</em>, <em>R. Yang</em>  
+**<em>Yang Lv</em>**, <em>Chenchen Wu</em>, <em>Dachuan Xu</em>, <em>Ruiqi Yang</em>  
 **High-Confidence Computing 4 (3), 100208**  
 [Paper 📄](https://github.com/lvymath1/lvyang.github.io/blob/main/files/H-hop_Independently_Submodular_Maximization.pdf)
 
@@ -25,7 +23,7 @@
 ### Conferences 🎤
 
 #### UAV Target Tracking with Bandit-Based Data Fusion
-**<em>Y. Lv</em>**, <em>G. Fan</em>, <em>M. Li</em>, <em>X. Liu</em>, <em>P. Liu</em>, <em>Y. Zhang</em>  
+**<em>Yang Lv</em>**, <em>Guochao Fan</em>, <em>Mengzhen Li</em>, <em>Xiongjun Liu</em>, <em>Pengqing Liu</em>, <em>Yapu Zhang</em>  
 **International Conference on Combinatorial Optimization and Applications, 278-286**  
 [Paper 📄](https://github.com/lvymath1/lvyang.github.io/blob/main/files/UAV_Target_Tracking.pdf)
 
