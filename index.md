@@ -16,22 +16,22 @@
 ### Journals 📖
 #### H-hop Independently Submodular Maximization Problem with Curvature  
 **<em>Yang Lv</em>**, <em>Chenchen Wu</em>, <em>Dachuan Xu</em>, <em>Ruiqi Yang</em> — **High-Confidence Computing 4 (3), 100208**  
-[Paper 📄](https://raw.githubusercontent.com/lvymath1/lvyang.github.io/main/files/H-hop_Independently_Submodular_Maximization.pdf)
+[Paper 📄](https://github.com/lvymath1/lvyang.github.io/raw/main/files/H-hop_Independently_Submodular_Maximization.pdf)
 
 ---
 
 ### Conferences 🎤
 #### UAV Target Tracking with Bandit-Based Data Fusion  
 **<em>Yang Lv</em>**, <em>Guochao Fan</em>, <em>Mengzhen Li</em>, <em>Xiongjun Liu</em>, <em>Pengqing Liu</em>, <em>Yapu Zhang</em> — **International Conference on Combinatorial Optimization and Applications, 278-286**  
-[Paper 📄](https://github.com/lvymath1/lvyang.github.io/blob/main/files/UAV_Target_Tracking.pdf)
+[Paper 📄](https://github.com/lvymath1/lvyang.github.io/raw/main/files/UAV_Target_Tracking.pdf)
 
 #### Random Greedy Deployment of Heterogeneous UAVs  
 **<em>Y. Lv</em>**, <em>F. Wang</em>, <em>X. Yu</em>, <em>X. Li</em>, <em>D. Xu</em>, <em>R. Yang</em> — **Annual Conference on Theory and Applications of Models of Computation, 330-341**  
-[Paper 📄](https://github.com/lvymath1/lvyang.github.io/blob/main/files/Random_Greedy_Deployment.pdf)
+[Paper 📄](https://github.com/lvymath1/lvyang.github.io/raw/main/files/Random_Greedy_Deployment.pdf)
 
 #### Efficient Submodular Maximization for Sums of Concave over Modular Functions  
 **<em>Y. Lv</em>**, <em>G. Wang</em>, <em>D. Xu</em>, <em>R. Yang</em> — **The Fourteenth International Conference on Learning Representations**  
-[Paper 📄](https://github.com/lvymath1/lvyang.github.io/blob/main/files/Efficient_Submodular_Maximization.pdf) | [Code 💻](https://github.com/lvymath1/YourCodeRepo)
+[Paper 📄](https://github.com/lvymath1/lvyang.github.io/raw/main/files/Efficient_Submodular_Maximization.pdf) | [Code 💻](https://github.com/lvymath1/YourCodeRepo)
 
 ## Contact Information 📬 {#information}
 -  Email: lvyang_research@163.com
