@@ -1,5 +1,5 @@
 <p style="text-align: left;">
-  I am **Lv Yang**, a Ph.D. student at **Beijing University of Technology** . I have completed my undergraduate and master's degrees at the same institution, and I am currently pursuing my doctoral research under the supervision of **Prof. Dachuan Xu** ([DBLP](https://dblp.org/pid/73/41.html)).
+  I am <strong>Lv Yang</strong>, a Ph.D. student at <strong>Beijing University of Technology</strong>. I have completed my undergraduate and master's degrees at the same institution, and I am currently pursuing my doctoral research under the supervision of <strong>Prof. Dachuan Xu</strong> (<a href="https://dblp.org/pid/73/41.html" target="_blank">DBLP</a>).
 </p>
 
 ## Research Areas 🔍
