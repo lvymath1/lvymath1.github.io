@@ -11,12 +11,17 @@
 - **UAV Optimization** 
 
 ## Journals 📖 {#Journals}
+#### <span style="font-size: 20px;">Submodular Optimization for Heterogeneous UAV Deployment</span>  
+**<em>Yang Lv</em>**, <em>Fengmin Wang</em>, <em>Xiankun Yu</em>, <em>Xin Li</em>, <em>Dachuan Xu</em>, <em>Ruiqi Yang</em> — **Journal of Combinatorial Optimization** - 2026 [📄Paper](https://github.com/lvymath1/lvyang.github.io/raw/main/files/Submodular_Optimization_for_Heterogeneous_UAV_Deployment.pdf)
+
+#### <span style="font-size: 20px;">A Multi-Armed Bandit Approach to UAV Sensor Fusion for Target Tracking</span>  
+**<em>Yang Lv</em>**, <em>Guochao Fan</em>, <em>Mengzhen Li</em>, <em>Xiongjun Liu</em>, <em>Pengqing Liu</em>, <em>Yapu Zhang</em> — **Theoretical Computer Science** (CCF-B) - 2026 [📄Paper](https://github.com/lvymath1/lvyang.github.io/raw/main/files/A_multi-armed_ bandit_ approach_to_UAV_sensor_fusion_for_target_tracking.pdf) | [💻Code](https://github.com/lvymath1/Cooperative_Placement_of_Heterogeneous_Measurement_UAVs)
+
 #### <span style="font-size: 20px;">Approximating Combinatorial Contracts with A Cardinality Constraint</span>  
 <em>Qinqin Gong</em>, <em>Ling Gai</em>, <em>Yanjun Jiang</em>, **<em>Yang Lv</em>**, <em>Ruiqi Yang</em> — **Journal of Combinatorial Optimization** - 2025 [📄Paper](https://github.com/lvymath1/lvyang.github.io/raw/main/files/Approximating_Cominatorial_Contracts.pdf)
 
 #### <span style="font-size: 20px;">H-hop Independently Submodular Maximization Problem with Curvature</span>  
 **<em>Yang Lv</em>**, <em>Chenchen Wu</em>, <em>Dachuan Xu</em>, <em>Ruiqi Yang</em> — **High-Confidence Computing** (CCF-C) - 2024 [📄Paper](https://github.com/lvymath1/lvyang.github.io/raw/main/files/H-hop_Independently_Submodular_Maximization.pdf)
-
 ---
 
 ## Conferences 🎤 {#Conferences}
